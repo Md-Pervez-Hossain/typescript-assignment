@@ -29,6 +29,8 @@ This makes the function reusable and type-safe at the same time.
 
 Generics are very common in React and TypeScript projects.
 
+Reusable Type :
+
 ```ts
 type ApiResponse<T> = {
   success: boolean;
